@@ -30,7 +30,7 @@
 
 ## Events
 - [`Upcoming ServerFests and Conferences`](https://mariadb.org/events/#upcoming)
-- [`Meetup`](https://www.meetup.com/find/?allMeetups=false&keywords=mariadb&radius=Infinity)
+- [`Meetup`](https://www.meetup.com/pro/anna-widenius/)
 
 ## Projects
 - [`MariaDB Community Server`](https://github.com/MariaDB/server) - One of the world’s most popular open source relational databases
@@ -41,7 +41,7 @@
 ## Projects related to MariaDB Server
 - [`MariaDB ColumnStore`](https://github.com/mariadb-corporation/mariadb-columnstore-engine) - Extends the Enterprise Server with distributed, columnar storage
 - [`MariaDB Galera Cluster`](https://github.com/codership/galera) - An open source active-active, multimaster synchronous replication solution
-- [`MadiaDB MaxScale`](https://github.com/mariadb-corporation/MaxScale) - An advanced database proxy for MariaDB Enterprise Serve
+- [`MariaDB MaxScale`](https://github.com/mariadb-corporation/MaxScale) - An advanced database proxy for MariaDB Enterprise Serve
 
 ### Connectors Repos
 - [`Connector/C`](https://github.com/mariadb-corporation/mariadb-connector-c)
@@ -50,14 +50,14 @@
 - [`Connector/ODBC`](https://github.com/mariadb-corporation/mariadb-connector-odbc)
 - [`Connector/Python`](https://github.com/mariadb-corporation/mariadb-connector-python)
 
-## Main Contributors
-- [`MariaDB Foundation`](https://mariadb.org/about/#about-mariadb-foundation) - The global contact point for collaboration on MariaDB Server
-- [`MariaDB Corporation`](https://mariadb.com/about-us/) - The company contributing the most code to MariaDB Server and offering the commercial solution MariaDB Enterprise 
-  - [`MariaDB Corporation GitHub`](https://github.com/mariadb-corporation)
-
-### How to contribute
+## How to contribute
 - [`Contributing to the MariaDB Project`](https://mariadb.com/kb/en/contributing-to-the-mariadb-project/)
 - [`Contributing code`](https://mariadb.com/kb/en/contributing-code/)
 - [`Submitting a pull request`](https://mariadb.org/get-involved/getting-started-for-developers/submitting-pull-request/)
 - [`File a bug or feature request`](https://mariadb.com/kb/en/reporting-bugs/)
 - [`Sponsorships`](https://mariadb.org/donate/)
+
+### Main Contributors
+- [`MariaDB Foundation`](https://mariadb.org/about/#about-mariadb-foundation) - The global contact point for collaboration on MariaDB Server
+- [`MariaDB Corporation`](https://mariadb.com/about-us/) - The company contributing the most code to MariaDB Server and offering the commercial solution MariaDB Enterprise 
+  - [`MariaDB Corporation GitHub`](https://github.com/mariadb-corporation)
