@@ -18,13 +18,13 @@
 
 <div>
   <p align="center">
-    <a href="https://www.youtube.com/@MariaDBFoundation/"><img src="https://img.shields.io/youtube/channel/subscribers/UCT2rydFTpxunueD-CtIQoWA?style=for-the-badge&label=%E2%96%B6%20YouTube&labelColor=%23FF0000&color=grey"></a>
+    <a href="https://www.youtube.com/@MariaDBFoundation/"><img src="https://img.shields.io/youtube/channel/subscribers/UCT2rydFTpxunueD-CtIQoWA?style=for-the-badge&logo=YouTube&label=MariaDB%20Foundation&labelColor=%23FF0000&color=grey"></a>
     &nbsp; &nbsp;
-    <a href="https://www.reddit.com/r/mariadb/"><img src="https://img.shields.io/reddit/subreddit-subscribers/mariadb?style=for-the-badge&labelColor=%23FF5700&color=grey"></a>
+    <a href="https://www.reddit.com/r/mariadb/"><img src="https://img.shields.io/reddit/subreddit-subscribers/mariadb?style=for-the-badge&logo=reddit&logoColor=white&logoSize=auto&label=R%2FMARIADB&labelColor=%20%23FF5700%20&color=grey"></a>
     &nbsp; &nbsp;
     <a href="https://www.linkedin.com/company/mariadb-foundation"><img src="https://img.shields.io/badge/-LinkedIn-%230e76a8?style=for-the-badge"></a>
     &nbsp; &nbsp;
-    <a href="https://x.com/mariadb_org/"><img src="https://img.shields.io/badge/-MariaDB%20on%20%F0%9D%95%8F-grey?style=for-the-badge"></a>    
+    <a href="https://x.com/mariadb_org/"><img src="https://img.shields.io/badge/-MariaDB-grey?style=for-the-badge&logo=x&logoColor=white&logoSize=auto"></a>    
   </p>
 </div>
 
