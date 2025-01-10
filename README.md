@@ -33,8 +33,8 @@
 - [`Meetup`](https://www.meetup.com/pro/anna-widenius/)
 
 ## Projects
-- [`MariaDB Community Server`](https://github.com/MariaDB/server) - One of the world’s most popular open source relational databases
-- [`The feedback plugin`](https://github.com/MariaDB/feedback-plugin-backend) - This is an important tool as it gives more transparency towards the current use-cases and user configurations. It helps with usage statistics and functionality prioritisation. It is disabled by default and it does not collect and personal data. [`Enable it`](https://mariadb.com/kb/en/feedback-plugin/#enabling-the-plugin) to help shape MariaDB's future
+- [`MariaDB Server`](https://github.com/MariaDB/server) - One of the world’s most popular open source relational databases
+- [`The feedback plugin`](https://github.com/MariaDB/feedback-plugin-backend) - This is an important tool as it gives more transparency towards the current use-cases and user configurations. It helps with usage statistics and functionality prioritisation. It is disabled by default and it does not collect and personal data. [`Enable it`](https://mariadb.com/kb/en/feedback-plugin/#enabling-the-plugin) to help shape MariaDB's future. You can [`check it out here`](https://mariadb.org/feedback-plugin/)
 - [`Buildbot`](https://github.com/MariaDB/buildbot) - MariaDB's continuous integration testing platform, based on the Buildbot.net open-source testing framework. Check it out [`here`](https://buildbot.mariadb.org/#/)
 - [`Jupyter Kernel`](https://github.com/MariaDB/mariadb_kernel) - An Open Source kernel for Jupyter which enables users to run MariaDB in a Jupyter notebook
 
@@ -43,12 +43,12 @@
 - [`MariaDB Galera Cluster`](https://github.com/codership/galera) - An open source active-active, multimaster synchronous replication solution
 - [`MariaDB MaxScale`](https://github.com/mariadb-corporation/MaxScale) - An advanced database proxy for MariaDB Enterprise Serve
 
-### Connectors Repos
-- [`Connector/C`](https://github.com/mariadb-corporation/mariadb-connector-c)
-- [`Connector/J`](https://github.com/mariadb-corporation/mariadb-connector-j)
-- [`Connector/Node.js`](https://github.com/mariadb-corporation/mariadb-connector-nodejs)
-- [`Connector/ODBC`](https://github.com/mariadb-corporation/mariadb-connector-odbc)
-- [`Connector/Python`](https://github.com/mariadb-corporation/mariadb-connector-python)
+### MariaDB Connectors Repos
+- [`MariaDB Connector/C`](https://github.com/mariadb-corporation/mariadb-connector-c)
+- [`MariaDB Connector/J`](https://github.com/mariadb-corporation/mariadb-connector-j)
+- [`MariaDB Connector/Node.js`](https://github.com/mariadb-corporation/mariadb-connector-nodejs)
+- [`MariaDB Connector/ODBC`](https://github.com/mariadb-corporation/mariadb-connector-odbc)
+- [`MariaDB Connector/Python`](https://github.com/mariadb-corporation/mariadb-connector-python)
 
 ## How to contribute
 - [`Contributing to the MariaDB Project`](https://mariadb.com/kb/en/contributing-to-the-mariadb-project/)
